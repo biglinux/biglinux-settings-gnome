@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Beállítások"
 
-msgid "Desempenho em modo normal!"
-msgstr "Teljesítmény normál üzemmódban!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Teljesítmény továbbfejlesztett üzemmódban!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ha böngészőt használ, indítsa újra a módosítások alkalmazásához."
 
@@ -80,18 +74,6 @@ msgstr "Használhatóság"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Ablak gombok a bal oldalon"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Invertált egér görgetés"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Fordított érintőpad görgetése"
-
-msgid "Indexar arquivos"
-msgstr "Indexfájlok"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Asztali szerkesztés blokkolása "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Elrejteni a Boot Manager (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Igen"
 msgid "Não"
 msgstr "Nem"
 
-msgid "Modo performance"
-msgstr "Teljesítmény mód"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS fsync nélkül"
 
@@ -116,11 +95,11 @@ msgstr "Fejlesztői mód"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "A szoftveres rendereléssel a fóliák minősége csökken."
 
-msgid "Desempenho em modo performance!"
-msgstr "Teljesítmény teljesítmény üzemmódban!"
+msgid "Grub"
+msgstr "Lárva"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Vigyázzon, elveszíti hozzáférését a SnapShots-hoz, biztos benne, hogy el akarja rejteni a grubot?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Legyen óvatos, elveszíti hozzáférését a SnapShots-hoz. Biztosan el akarja rejteni a grubot?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Tudni fogja, hogyan kell visszaadni a Grub-ot hiba esetén?"

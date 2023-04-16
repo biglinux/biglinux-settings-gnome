@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Indstillinger"
 
-msgid "Desempenho em modo normal!"
-msgstr "Ydelse i normal tilstand!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Ydeevne i forbedret tilstand!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Hvis du bruger en browser, skal du genstarte den for at anvende ændringerne."
 
@@ -80,18 +74,6 @@ msgstr "Brugervenlighed"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Vinduesknapper i venstre side"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Inverteret musebladsering"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Omvendt touchpad-rulning"
-
-msgid "Indexar arquivos"
-msgstr "Indekser filer"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Bloker skrivebordsredigering "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Skjul Boot Manager (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Ja"
 msgid "Não"
 msgstr "Nej"
 
-msgid "Modo performance"
-msgstr "Ydeevne tilstand"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS uden fsync"
 
@@ -116,11 +95,11 @@ msgstr "Udvikler-tilstand"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Ved brug af softwarerensning reduceres kvaliteten af transparenter."
 
-msgid "Desempenho em modo performance!"
-msgstr "Præstation i præstationstilstand!"
+msgid "Grub"
+msgstr "Orm"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Pas på, at du mister adgangen til SnapShots, er du sikker på, at du vil skjule grub?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Vær forsigtig, du mister adgangen til SnapShots. Er du sikker på, at du vil skjule gruben?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Ved du, hvordan du returnerer Grub i tilfælde af fiasko?"

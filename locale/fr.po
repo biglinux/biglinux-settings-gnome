@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Paramètres"
 
-msgid "Desempenho em modo normal!"
-msgstr "Performance en mode normal !"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Des performances en mode amélioré !"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Si vous utilisez un navigateur, redémarrez-le pour appliquer les modifications."
 
@@ -80,18 +74,6 @@ msgstr "Utilisabilité"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Boutons de la fenêtre sur le côté gauche"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Défilement inversé de la souris"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Défilement inversé du pavé tactile"
-
-msgid "Indexar arquivos"
-msgstr "Fichiers d’index"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Bloquer l’édition du bureau "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Cacher le gestionnaire de démarrage (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Oui"
 msgid "Não"
 msgstr "Non"
 
-msgid "Modo performance"
-msgstr "Mode de performance"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS sans fsync"
 
@@ -116,11 +95,11 @@ msgstr "Mode développeur"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "En utilisant le rendu logiciel, la qualité des transparents est réduite."
 
-msgid "Desempenho em modo performance!"
-msgstr "La performance en mode performance !"
+msgid "Grub"
+msgstr "Larve"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Attention, vous perdrez l’accès aux SnapShots, êtes-vous sûr de vouloir cacher le larves?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Attention, vous perdrez l’accès aux SnapShots. Êtes-vous sûr de vouloir cacher la larve ?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Saurez-vous rendre Grub en cas d’échec ?"

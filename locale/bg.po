@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Настройки"
 
-msgid "Desempenho em modo normal!"
-msgstr "Изпълнение в нормален режим!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Изпълнение в подобрен режим!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ако използвате браузър, рестартирайте го, за да приложите промените."
 
@@ -80,18 +74,6 @@ msgstr "Ползваемост"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Бутони на прозореца от лявата страна"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Обърнато превъртане на мишката"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Обърнато превъртане на тъчпада"
-
-msgid "Indexar arquivos"
-msgstr "Индексни файлове"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Блокиране на редактирането на работния плот "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Скриване на мениджъра за зареждане (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Да"
 msgid "Não"
 msgstr "Не"
 
-msgid "Modo performance"
-msgstr "Режим на производителност"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS без fsync"
 
@@ -116,11 +95,11 @@ msgstr "Режим на разработчик"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "При използване на софтуерно визуализиране качеството на прозрачните изображения се намалява."
 
-msgid "Desempenho em modo performance!"
-msgstr "Изпълнение в режим на изпълнение!"
+msgid "Grub"
+msgstr "Ровя"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Внимавайте, че ще загубите достъп до SnapShots, сигурни ли сте, че искате да скриете ларвата?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Бъдете внимателни, ще загубите достъп до SnapShots. Наистина ли искате да скриете ларвата?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Ще знаете ли как да върнете Grub в случай на неуспех?"

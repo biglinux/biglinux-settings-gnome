@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "ugađanje"
 
-msgid "Desempenho em modo normal!"
-msgstr "Izvedba u normalnom načinu rada!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Performanse u optimiziranom načinu!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ako koristite preglednik, ponovno ga pokrenite da biste primijenili promjene."
 
@@ -80,18 +74,6 @@ msgstr "Upotrebljivost"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Gumbi prozora na lijevoj strani"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Obrnuto pomicanje miša"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Preokrenuto pomicanje dodirne pločice"
-
-msgid "Indexar arquivos"
-msgstr "Indeksiraj datoteke"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Blokiranje uređivanja radne površine "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Sakrij upravitelja pokretanja (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Da"
 msgid "Não"
 msgstr "Ne"
 
-msgid "Modo performance"
-msgstr "Način rada s performansama"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS bez fsynca"
 
@@ -116,11 +95,11 @@ msgstr "Način rada za razvojne inženjere"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Korištenjem prikazivanja softvera smanjuje se kvaliteta prozirnih folija."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performanse u načinu rada!"
+msgid "Grub"
+msgstr "Larva"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Pazite da ćete izgubiti pristup SnapShotovima, jeste li sigurni da želite sakriti grub?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Budite oprezni, izgubit ćete pristup SnapShotovima. Jeste li sigurni da želite sakriti grub?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Hoćete li znati kako vratiti Gruba u slučaju neuspjeha?"

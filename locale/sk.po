@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Nastavenia"
 
-msgid "Desempenho em modo normal!"
-msgstr "Výkon v normálnom režime!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Výkon v rozšírenom režime!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ak používate prehliadač, reštartujte ho, aby ste použili zmeny."
 
@@ -80,18 +74,6 @@ msgstr "Použiteľnosť"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Tlačidlá okna na ľavej strane"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Invertované posúvanie myšou"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Posúvanie obráteného touchpadu"
-
-msgid "Indexar arquivos"
-msgstr "Indexové súbory"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Blokovanie úprav pracovnej plochy "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Skrytie správcu zavádzania systému (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Áno"
 msgid "Não"
 msgstr "Nie"
 
-msgid "Modo performance"
-msgstr "Režim výkonu"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS bez fsync"
 
@@ -116,11 +95,11 @@ msgstr "Režim vývojára"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Pri softvérovom vykresľovaní sa znižuje kvalita priehľadov."
 
-msgid "Desempenho em modo performance!"
-msgstr "Výkon v režime výkonu!"
+msgid "Grub"
+msgstr "Žrádlo"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Dajte si pozor, že stratíte prístup k SnapShots, ste si istí, že chcete skryť grub?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Buďte opatrní, stratíte prístup k SnapShots. Naozaj chcete skryť grub?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Budete vedieť, ako vrátiť Grub v prípade zlyhania?"

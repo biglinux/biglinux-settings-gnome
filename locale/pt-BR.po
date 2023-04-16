@@ -1,12 +1,12 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the biglinux-settings package.
+# This file is distributed under the same license as the biglinux-settings-gnome package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: biglinux-settings\n"
+"Project-Id-Version: biglinux-settings-gnome\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,12 +17,6 @@ msgstr ""
 
 msgid "Ajustes"
 msgstr "Ajustes"
-
-msgid "Desempenho em modo normal!"
-msgstr "Desempenho em modo normal!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Desempenho em modo otimizado!"
 
 msgid ""
 "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
@@ -81,18 +75,6 @@ msgstr "Usabilidade"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Botões da janela no lado esquerdo"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Rolagem do mouse invertida"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Rolagem do touchpad invertida"
-
-msgid "Indexar arquivos"
-msgstr "Indexar arquivos"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Bloquear a edição da área de trabalho "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Ocultar Gerenciador de Boot (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Sim"
 
 msgid "Não"
 msgstr "Não"
-
-msgid "Modo performance"
-msgstr "Modo performance"
 
 msgid "BTRFS sem fsync"
 msgstr "BTRFS sem fsync"
@@ -121,14 +100,14 @@ msgstr ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 
-msgid "Desempenho em modo performance!"
-msgstr "Desempenho em modo performance!"
+msgid "Grub"
+msgstr "Grub"
 
 msgid ""
-"Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o "
+"Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o "
 "grub?"
 msgstr ""
-"Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o "
+"Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o "
 "grub?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"

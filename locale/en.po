@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Settings"
 
-msgid "Desempenho em modo normal!"
-msgstr "Performance in normal mode!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Performance in enhanced mode!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "If you are using a browser, restart it to apply the changes."
 
@@ -80,18 +74,6 @@ msgstr "Usability"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Window buttons on the left side"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Mouse scrolling inverted"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Inverted touchpad scrolling"
-
-msgid "Indexar arquivos"
-msgstr "Index files"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Block desktop editing "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Hide Boot Manager (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Yes"
 msgid "Não"
 msgstr "No"
 
-msgid "Modo performance"
-msgstr "Performance mode"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS without fsync"
 
@@ -116,11 +95,11 @@ msgstr "Developer Mode"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Using software rendering, the quality of transparencies is reduced."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performance in performance mode!"
+msgid "Grub"
+msgstr "Grub"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Beware you will lose access to SnapShots, are you sure you want to hide the grub?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Be careful, you will lose access to SnapShots. Are you sure you want to hide the grub?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Will you know how to return Grub in case of failure?"

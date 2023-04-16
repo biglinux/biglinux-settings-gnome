@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Asetukset"
 
-msgid "Desempenho em modo normal!"
-msgstr "Suorituskyky normaalitilassa!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Suorituskyky tehostetussa tilassa!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Jos käytät selainta, ota muutokset käyttöön käynnistämällä se uudelleen."
 
@@ -80,18 +74,6 @@ msgstr "Käytettävyys"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Ikkunan painikkeet vasemmalla puolella"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Käänteinen hiiren vieritys"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Käänteisen kosketuslevyn vieritys"
-
-msgid "Indexar arquivos"
-msgstr "Tiedostojen indeksointi"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Estä työpöydän muokkaus "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Piilota käynnistyksenhallinta (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Kyllä"
 msgid "Não"
 msgstr "Ei"
 
-msgid "Modo performance"
-msgstr "Suorituskykytila"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS ilman fsynkronointia"
 
@@ -116,11 +95,11 @@ msgstr "Kehittäjän tila"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Ohjelmiston renderöintiä käytettäessä läpinäkyvien kuvien laatu heikkenee."
 
-msgid "Desempenho em modo performance!"
-msgstr "Suorituskyky suoritustilassa!"
+msgid "Grub"
+msgstr "Toukka"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Varo, että menetät pääsyn SnapShotsiin, oletko varma, että haluat piilottaa grubin?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Ole varovainen, menetät pääsyn SnapShotsiin. Haluatko varmasti piilottaa roskan?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Tiedätkö kuinka palauttaa Grub epäonnistumisen sattuessa?"

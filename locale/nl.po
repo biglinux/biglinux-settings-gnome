@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Instellingen"
 
-msgid "Desempenho em modo normal!"
-msgstr "Prestaties in de normale modus!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Prestaties in verbeterde modus!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Als u een browser gebruikt, start u deze opnieuw op om de wijzigingen toe te passen."
 
@@ -80,18 +74,6 @@ msgstr "Bruikbaarheid"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Venster knoppen aan de linkerkant"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Omgekeerd scrollen met de muis"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Omgekeerd touchpad scrollen"
-
-msgid "Indexar arquivos"
-msgstr "Indexbestanden"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Bureaubladbewerking blokkeren "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Verberg Boot Manager (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Ja"
 msgid "Não"
 msgstr "Nee"
 
-msgid "Modo performance"
-msgstr "Prestatiemodus"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS zonder fsync"
 
@@ -116,11 +95,13 @@ msgstr "Ontwikkelaarsmodus"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Met software rendering wordt de kwaliteit van transparanten verminderd."
 
-msgid "Desempenho em modo performance!"
-msgstr "Prestaties in de prestatiemodus!"
+msgid "Grub"
+msgstr "Larve"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Pas op dat je de toegang tot SnapShots verliest, weet je zeker dat je de grub wilt verbergen?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr ""
+"Wees voorzichtig, je verliest de toegang tot SnapShots. Weet je zeker dat je de engerling wilt "
+"verbergen?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Weet je hoe je Grub kunt retourneren in geval van falen?"

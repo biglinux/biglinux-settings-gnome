@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "设置"
 
-msgid "Desempenho em modo normal!"
-msgstr "正常模式下的表现!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "增强模式下的性能!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "如果您使用的是浏览器，请重新启动它以应用更改。"
 
@@ -78,18 +72,6 @@ msgstr "可用性"
 msgid "Botões da janela no lado esquerdo"
 msgstr "左手边的窗口按钮"
 
-msgid "Rolagem do mouse invertida"
-msgstr "颠倒的鼠标滚动"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "倒置触摸板滚动"
-
-msgid "Indexar arquivos"
-msgstr "索引文件"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "阻止桌面编辑 "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "隐藏启动管理器（GRUB）"
 
@@ -102,9 +84,6 @@ msgstr "是"
 msgid "Não"
 msgstr "没有"
 
-msgid "Modo performance"
-msgstr "性能模式"
-
 msgid "BTRFS sem fsync"
 msgstr "不带同步的BTRFS"
 
@@ -114,11 +93,11 @@ msgstr "开发人员模式"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "使用软件渲染，透明胶片的质量会降低。"
 
-msgid "Desempenho em modo performance!"
-msgstr "性能模式下的表现!"
+msgid "Grub"
+msgstr "幼虫"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "请注意，您将无法访问SnapShots，您确定要隐藏grub吗？"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "请注意，您将无法访问SnapShots。你确定要隐藏蛴螬吗？"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "您知道如何在发生故障时返回 Grub 吗？"

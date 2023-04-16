@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Inställningar"
 
-msgid "Desempenho em modo normal!"
-msgstr "Prestanda i normalt läge!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Prestanda i förbättrat läge!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Om du använder en webbläsare startar du om den för att tillämpa ändringarna."
 
@@ -80,18 +74,6 @@ msgstr "Användbarhet"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Fönsterknappar på vänster sida"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Inverterad musrullning"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Inverterad pekplatta rullning"
-
-msgid "Indexar arquivos"
-msgstr "Indexera filer"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Blockera skrivbordsredigering "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Dölj Boot Manager (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Ja"
 msgid "Não"
 msgstr "Ingen"
 
-msgid "Modo performance"
-msgstr "Prestanda-läge"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS utan fsync"
 
@@ -116,11 +95,13 @@ msgstr "Utvecklarläge"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Om du använder mjukvarurendering minskar kvaliteten på transparenter."
 
-msgid "Desempenho em modo performance!"
-msgstr "Prestanda i prestandaläge!"
+msgid "Grub"
+msgstr "Larv"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Se upp för att du kommer att förlora åtkomst till SnapShots, är du säker på att du vill dölja grub?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr ""
+"Var försiktig, du kommer att förlora åtkomst till SnapShots. Är du säker på att du vill dölja "
+"grubben?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Kommer du att veta hur du returnerar Grub vid fel?"

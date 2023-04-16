@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Ayarlar"
 
-msgid "Desempenho em modo normal!"
-msgstr "Normal modda performans!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Gelişmiş modda performans!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için tarayıcıyı yeniden başlatın."
 
@@ -80,18 +74,6 @@ msgstr "Kullanılabilirlik"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Sol taraftaki pencere düğmeleri"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Ters çevrilmiş fare kaydırma"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Ters dokunmatik yüzey kaydırma"
-
-msgid "Indexar arquivos"
-msgstr "Dizin dosyaları"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Masaüstü düzenlemeyi engelleme "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Önyükleme Yöneticisini Gizle (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Evet"
 msgid "Não"
 msgstr "Hayır"
 
-msgid "Modo performance"
-msgstr "Performans modu"
-
 msgid "BTRFS sem fsync"
 msgstr "Fsync olmadan BTRFS"
 
@@ -116,11 +95,11 @@ msgstr "Geliştirici Modu"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Yazılım oluşturma kullanılarak asetatların kalitesi düşürülür."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performans modunda performans!"
+msgid "Grub"
+msgstr "Arjantin"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "SnapShot'lara erişiminizi kaybedeceğinize dikkat edin, grubu gizlemek istediğinizden emin misiniz?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Dikkatli olun, SnapShots'a erişiminizi kaybedersiniz. Grub'u gizlemek istediğinden emin misin?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Başarısızlık durumunda Grub'u nasıl iade edeceğinizi bilecek misiniz?"

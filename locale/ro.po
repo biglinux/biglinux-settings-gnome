@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Setări"
 
-msgid "Desempenho em modo normal!"
-msgstr "Performanță în modul normal!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Performanță în modul îmbunătățit!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Dacă utilizați un browser, reporniți-l pentru a aplica modificările."
 
@@ -80,18 +74,6 @@ msgstr "Utilizare"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Butoanele ferestrei din partea stângă"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Derulare inversată a mouse-ului"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Defilare touchpad inversat"
-
-msgid "Indexar arquivos"
-msgstr "Fișiere index"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Blocați editarea pe desktop "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Ascundeți Managerul de pornire (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Da"
 msgid "Não"
 msgstr "Nu"
 
-msgid "Modo performance"
-msgstr "Modul performanță"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS fără fsync"
 
@@ -116,11 +95,11 @@ msgstr "Modul pentru dezvoltatori"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Prin utilizarea randării software, calitatea transparențelor este redusă."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performanță în modul performanță!"
+msgid "Grub"
+msgstr "Larvă"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Feriți-vă că veți pierde accesul la SnapShots, sunteți sigur că doriți să ascundeți grub-ul?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Aveți grijă, veți pierde accesul la SnapShots. Sunteți sigur că doriți să ascundeți grub-ul?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Veți ști cum să returnați Grub în caz de eșec?"

@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "設定"
 
-msgid "Desempenho em modo normal!"
-msgstr "ノーマルモードでのパフォーマンス!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "エンハンスドモードでのパフォーマンス!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "ブラウザーを使用している場合は、ブラウザーを再始動して変更を適用します。"
 
@@ -78,18 +72,6 @@ msgstr "ユーザビリティ"
 msgid "Botões da janela no lado esquerdo"
 msgstr "左側にあるウィンドウのボタン"
 
-msgid "Rolagem do mouse invertida"
-msgstr "マウスのスクロールが反転する"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "反転タッチパッドスクロール"
-
-msgid "Indexar arquivos"
-msgstr "インデックス ファイル"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "デスクトップ編集をブロックする "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "ブートマネージャ（GRUB）の非表示"
 
@@ -102,9 +84,6 @@ msgstr "はい"
 msgid "Não"
 msgstr "いいえ"
 
-msgid "Modo performance"
-msgstr "パフォーマンスモード"
-
 msgid "BTRFS sem fsync"
 msgstr "fsync を使用しない BTRFS"
 
@@ -114,11 +93,11 @@ msgstr "開発者モード"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画質が低下します。"
 
-msgid "Desempenho em modo performance!"
-msgstr "パフォーマンスモードでのパフォーマンス!"
+msgid "Grub"
+msgstr "地虫"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "スナップショットにアクセスできなくなることに注意してください、グラブを非表示にしてもよろしいですか?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "注意してください、あなたはスナップショットにアクセスできなくなります。グラブを非表示にしてもよろしいですか?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "失敗した場合にGrubを返す方法を知っていますか?"

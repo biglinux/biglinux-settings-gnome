@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Einstellungen"
 
-msgid "Desempenho em modo normal!"
-msgstr "Leistung im normalen Modus!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Leistung im erweiterten Modus!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Wenn Sie einen Browser verwenden, starten Sie ihn neu, um die Änderungen zu übernehmen."
 
@@ -80,18 +74,6 @@ msgstr "Benutzerfreundlichkeit"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Fenstertasten auf der linken Seite"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Umgekehrter Maus-Scroll"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Invertiertes Scrollen des Touchpads"
-
-msgid "Indexar arquivos"
-msgstr "Index-Dateien"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Desktop-Bearbeitung blockieren "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Bootmanager ausblenden (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Ja"
 msgid "Não"
 msgstr "Nein"
 
-msgid "Modo performance"
-msgstr "Leistungsmodus"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS ohne fsync"
 
@@ -116,13 +95,13 @@ msgstr "Entwickler-Modus"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Beim Software-Rendering wird die Qualität der Transparenzen reduziert."
 
-msgid "Desempenho em modo performance!"
-msgstr "Leistung im Leistungsmodus!"
+msgid "Grub"
+msgstr "Larve"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
 msgstr ""
-"Vorsicht, dass Sie den Zugriff auf SnapShots verlieren, sind Sie sicher, dass Sie das Essen "
-"verstecken möchten?"
+"Seien Sie vorsichtig, Sie verlieren den Zugriff auf SnapShots. Bist du sicher, dass du das Essen "
+"verstecken willst?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Wissen Sie, wie Sie Grub im Falle eines Fehlers zurückgeben können?"

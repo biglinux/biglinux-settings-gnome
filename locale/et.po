@@ -19,12 +19,6 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Seaded"
 
-msgid "Desempenho em modo normal!"
-msgstr "Tulemuslikkus tavarežiimis!"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Täiustatud režiimil toimimine!"
-
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Kui kasutate brauserit, taaskäivitage see muudatuste rakendamiseks."
 
@@ -80,18 +74,6 @@ msgstr "Kasutatavus"
 msgid "Botões da janela no lado esquerdo"
 msgstr "Akna nupud vasakul pool"
 
-msgid "Rolagem do mouse invertida"
-msgstr "Ümberpööratud hiire kerimine"
-
-msgid "Rolagem do touchpad invertida"
-msgstr "Ümberpööratud puuteplaadi kerimine"
-
-msgid "Indexar arquivos"
-msgstr "Failide register"
-
-msgid "Bloquear a edição da área de trabalho "
-msgstr "Töölaua redigeerimise blokeerimine "
-
 msgid "Ocultar Gerenciador de Boot (GRUB)"
 msgstr "Hide Boot Manager (GRUB)"
 
@@ -104,9 +86,6 @@ msgstr "Jah"
 msgid "Não"
 msgstr "Ei"
 
-msgid "Modo performance"
-msgstr "Jõudluse režiim"
-
 msgid "BTRFS sem fsync"
 msgstr "BTRFS ilma fsyncita"
 
@@ -116,11 +95,11 @@ msgstr "Arendaja režiim"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Tarkvaralist renderdamist kasutades väheneb läbipaistvuse kvaliteet."
 
-msgid "Desempenho em modo performance!"
-msgstr "Esitlusvõime esitusrežiimis!"
+msgid "Grub"
+msgstr "Grub"
 
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Ettevaatust, et kaotate juurdepääsu SnapShotsile, kas olete kindel, et soovite grubi varjata?"
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Olge ettevaatlik, kaotate juurdepääsu SnapShotsile. Kas olete kindel, et soovite grubi varjata?"
 
 msgid "Você saberá retornar o Grub em caso de falha?"
 msgstr "Kas teate, kuidas Grubi ebaõnnestumise korral tagastada?"
