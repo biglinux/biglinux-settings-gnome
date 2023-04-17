@@ -297,14 +297,18 @@ cat << EOF
                   $Window_buttons_on_the_left_side
                 </div>
 EOF
-if [ -n "$checked_left_button" ];then
+button_layout=$(gsettings get org.gnome.desktop.wm.preferences button-layout)
+if [ "$button_layout" = "'close,minimize,maximize:'" ]; then
+  checked_left_button="checked"
+else
+  checked_left_button=""
+fi
 cat << EOF
                 <div class="button-wrapper">
                   <input id="desktop1" onclick="_run('./left_button.run')" type="checkbox" class="switch" style="top: 3px;" $checked_left_button>
                 </div>
               </li>
 EOF
-fi
 # Botões da janela no lado esquerdo End
 
 
