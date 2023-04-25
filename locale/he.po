@@ -84,6 +84,9 @@ msgstr "הן"
 msgid "Não"
 msgstr "לא"
 
+msgid "Modo performance"
+msgstr "מצב ביצועים"
+
 msgid "BTRFS sem fsync"
 msgstr "BTRFS ללא fsync"
 

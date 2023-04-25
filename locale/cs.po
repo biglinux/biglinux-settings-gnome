@@ -86,6 +86,9 @@ msgstr "Ano"
 msgid "Não"
 msgstr "Ne"
 
+msgid "Modo performance"
+msgstr "Režim výkonu"
+
 msgid "BTRFS sem fsync"
 msgstr "BTRFS bez fsync"
 

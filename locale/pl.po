@@ -86,6 +86,9 @@ msgstr "Tak"
 msgid "Não"
 msgstr "Nie"
 
+msgid "Modo performance"
+msgstr "Tryb wydajności"
+
 msgid "BTRFS sem fsync"
 msgstr "BTRFS bez fsync"
 

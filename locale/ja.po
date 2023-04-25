@@ -84,6 +84,9 @@ msgstr "はい"
 msgid "Não"
 msgstr "いいえ"
 
+msgid "Modo performance"
+msgstr "パフォーマンスモード"
+
 msgid "BTRFS sem fsync"
 msgstr "fsync を使用しない BTRFS"
 

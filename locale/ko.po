@@ -84,6 +84,9 @@ msgstr "예"
 msgid "Não"
 msgstr "아니"
 
+msgid "Modo performance"
+msgstr "퍼포먼스 모드"
+
 msgid "BTRFS sem fsync"
 msgstr "프싱크가 없는 BTRFS"
 

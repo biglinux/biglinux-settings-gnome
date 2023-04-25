@@ -86,6 +86,9 @@ msgstr "Kyllä"
 msgid "Não"
 msgstr "Ei"
 
+msgid "Modo performance"
+msgstr "Suorituskyky-tila"
+
 msgid "BTRFS sem fsync"
 msgstr "BTRFS ilman fsynkronointia"
 

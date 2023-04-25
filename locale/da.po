@@ -86,6 +86,9 @@ msgstr "Ja"
 msgid "Não"
 msgstr "Nej"
 
+msgid "Modo performance"
+msgstr "Ydeevne tilstand"
+
 msgid "BTRFS sem fsync"
 msgstr "BTRFS uden fsync"
 

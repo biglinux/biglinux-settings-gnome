@@ -84,6 +84,9 @@ msgstr "是"
 msgid "Não"
 msgstr "没有"
 
+msgid "Modo performance"
+msgstr "性能模式"
+
 msgid "BTRFS sem fsync"
 msgstr "不带同步的BTRFS"
 

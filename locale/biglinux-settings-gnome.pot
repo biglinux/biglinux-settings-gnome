@@ -83,6 +83,9 @@ msgstr  ""
 msgid   "Não"
 msgstr  ""
 
+msgid   "Modo performance"
+msgstr  ""
+
 msgid   "BTRFS sem fsync"
 msgstr  ""
 

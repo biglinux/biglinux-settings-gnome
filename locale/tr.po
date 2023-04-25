@@ -86,6 +86,9 @@ msgstr "Evet"
 msgid "Não"
 msgstr "Hayır"
 
+msgid "Modo performance"
+msgstr "Performans Modu"
+
 msgid "BTRFS sem fsync"
 msgstr "Fsync olmadan BTRFS"
 

@@ -86,6 +86,9 @@ msgstr "Да"
 msgid "Não"
 msgstr "Не"
 
+msgid "Modo performance"
+msgstr "Режим на производителност"
+
 msgid "BTRFS sem fsync"
 msgstr "BTRFS без fsync"
 
