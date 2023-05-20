@@ -16,8 +16,34 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Ajustes"
-msgstr "Inställningar"
+msgid "Grub"
+msgstr "Larv"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr ""
+"Var försiktig, du kommer att förlora åtkomst till SnapShots. Är du säker på att du vill dölja "
+"grubben?"
+
+msgid "Não"
+msgstr "Ingen"
+
+msgid "Sim"
+msgstr "Ja"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Kommer du att veta hur du returnerar Grub vid fel?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Kommer du att kunna komma åt SnapShots utan tillgång till Graph-läge?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Är du helt säker på den här applikationen?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Ansökan, vänta..."
+
+msgid "Concluído!"
+msgstr "Färdig!"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Om du använder en webbläsare startar du om den för att tillämpa ändringarna."
@@ -80,14 +106,8 @@ msgstr "Dölj Boot Manager (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Aktivera NumLock vid systemstart"
 
-msgid "Sim"
-msgstr "Ja"
-
-msgid "Não"
-msgstr "Ingen"
-
-msgid "Modo performance"
-msgstr "Prestanda-läge"
+msgid "Desativar efeitos"
+msgstr "Stäng av effekter"
 
 msgid "BTRFS sem fsync"
 msgstr "BTRFS utan fsync"
@@ -98,25 +118,5 @@ msgstr "Utvecklarläge"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Om du använder mjukvarurendering minskar kvaliteten på transparenter."
 
-msgid "Grub"
-msgstr "Larv"
-
-msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
-msgstr ""
-"Var försiktig, du kommer att förlora åtkomst till SnapShots. Är du säker på att du vill dölja "
-"grubben?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Kommer du att veta hur du returnerar Grub vid fel?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Kommer du att kunna komma åt SnapShots utan tillgång till Graph-läge?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Är du helt säker på den här applikationen?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Ansökan, vänta..."
-
-msgid "Concluído!"
-msgstr "Färdig!"
+msgid "Ajustes"
+msgstr "Inställningar"

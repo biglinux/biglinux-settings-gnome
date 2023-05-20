@@ -14,7 +14,32 @@ msgstr  "Project-Id-Version: biglinux-settings-gnome\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-msgid   "Ajustes"
+msgid   "Grub"
+msgstr  ""
+
+msgid   "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja "
+        "ocultar o grub?"
+msgstr  ""
+
+msgid   "Não"
+msgstr  ""
+
+msgid   "Sim"
+msgstr  ""
+
+msgid   "Você saberá retornar o Grub em caso de falha?"
+msgstr  ""
+
+msgid   "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr  ""
+
+msgid   "Você está completamente seguro dessa aplicação?"
+msgstr  ""
+
+msgid   "Aplicando, aguarde..."
+msgstr  ""
+
+msgid   "Concluído!"
 msgstr  ""
 
 msgid   "Se estiver utilizando algum navegador, reinicie-o para aplicar as "
@@ -77,13 +102,7 @@ msgstr  ""
 msgid   "Ativar o NumLock ao ligar o sistema"
 msgstr  ""
 
-msgid   "Sim"
-msgstr  ""
-
-msgid   "Não"
-msgstr  ""
-
-msgid   "Modo performance"
+msgid   "Desativar efeitos"
 msgstr  ""
 
 msgid   "BTRFS sem fsync"
@@ -96,24 +115,5 @@ msgid   "Utilizando renderização por software, a qualidade das transparências
         "está reduzida."
 msgstr  ""
 
-msgid   "Grub"
-msgstr  ""
-
-msgid   "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja "
-        "ocultar o grub?"
-msgstr  ""
-
-msgid   "Você saberá retornar o Grub em caso de falha?"
-msgstr  ""
-
-msgid   "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr  ""
-
-msgid   "Você está completamente seguro dessa aplicação?"
-msgstr  ""
-
-msgid   "Aplicando, aguarde..."
-msgstr  ""
-
-msgid   "Concluído!"
+msgid   "Ajustes"
 msgstr  ""

@@ -16,8 +16,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Ajustes"
-msgstr "Ayarlar"
+msgid "Grub"
+msgstr "Arjantin"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Dikkatli olun, SnapShots'a erişiminizi kaybedersiniz. Grub'u gizlemek istediğinden emin misin?"
+
+msgid "Não"
+msgstr "Hayır"
+
+msgid "Sim"
+msgstr "Evet"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Başarısızlık durumunda Grub'u nasıl iade edeceğinizi bilecek misiniz?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Grafik moduna erişmeden SnapShots'a erişebilecek misiniz?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Bu uygulamadan tamamen emin misiniz?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Başvuru, bekle..."
+
+msgid "Concluído!"
+msgstr "Yapılmış!"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için tarayıcıyı yeniden başlatın."
@@ -80,14 +104,8 @@ msgstr "Önyükleme Yöneticisini Gizle (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Sistem başlangıcında NumLock'u etkinleştirme"
 
-msgid "Sim"
-msgstr "Evet"
-
-msgid "Não"
-msgstr "Hayır"
-
-msgid "Modo performance"
-msgstr "Performans Modu"
+msgid "Desativar efeitos"
+msgstr "Efektleri kapatma"
 
 msgid "BTRFS sem fsync"
 msgstr "Fsync olmadan BTRFS"
@@ -98,23 +116,5 @@ msgstr "Geliştirici Modu"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Yazılım oluşturma kullanılarak asetatların kalitesi düşürülür."
 
-msgid "Grub"
-msgstr "Arjantin"
-
-msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
-msgstr "Dikkatli olun, SnapShots'a erişiminizi kaybedersiniz. Grub'u gizlemek istediğinden emin misin?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Başarısızlık durumunda Grub'u nasıl iade edeceğinizi bilecek misiniz?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Grafik moduna erişmeden SnapShots'a erişebilecek misiniz?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Bu uygulamadan tamamen emin misiniz?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Başvuru, bekle..."
-
-msgid "Concluído!"
-msgstr "Yapılmış!"
+msgid "Ajustes"
+msgstr "Ayarlar"
