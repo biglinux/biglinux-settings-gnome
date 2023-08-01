@@ -15,6 +15,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Ajustes"
+msgstr "Ajustes"
+
 msgid "Grub"
 msgstr "Grub"
 
@@ -124,6 +127,3 @@ msgid ""
 msgstr ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-
-msgid "Ajustes"
-msgstr "Ajustes"
