@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=Settings;
 Exec=biglinux-settings-gnome
-Icon=/usr/share/icons/hicolor/scalable/apps/biglinux-settings.svg
+Icon=biglinux-settings
 Name=BigLinux Settings
 Name[bg]=Настройки на BigLinux
 Name[cs]=Nastavení BigLinuxu
