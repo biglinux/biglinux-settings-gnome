@@ -1,10 +1,18 @@
-#!/bin/bash 
+#!/bin/bash
 
 #Translation
 export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-settings-gnome
+export QT_QPA_PLATFORM=xcb 
+export SDL_VIDEODRIVER=x11 
+export WINIT_UNIX_BACKEND=x11 
+export GDK_BACKEND=x11
 
-Title=$"Ajustes"
+	declare -g appspath='/usr/share/bigbashview/bcc/apps/biglinux-settings-gnome'
+	declare -g icon_file='/usr/share/icons/hicolor/scalable/apps/biglinux-settings.svg'
+	declare -g TITLE="bigsettings"
+	declare -g sub="bigsettings"
 
 cd /usr/share/bigbashview/bcc/apps/biglinux-settings-gnome/
-bigbashview index.sh.htm -n "$Title" -t qt -s 850x650 -i /usr/share/icons/hicolor/scalable/apps/biglinux-settings.svg
+bigbashview -n "$TITLE" -p "$sub" -t qt -s 850x650 -d "$appspath" index.sh.htm -i "$icon_file" 
+
