@@ -7,12 +7,8 @@ export QT_QPA_PLATFORM=xcb
 export SDL_VIDEODRIVER=x11 
 export WINIT_UNIX_BACKEND=x11 
 export GDK_BACKEND=x11
-
-	declare -g appspath='/usr/share/bigbashview/bcc/apps/biglinux-settings-gnome'
-	declare -g icon_file='/usr/share/icons/hicolor/scalable/apps/biglinux-settings.svg'
-	declare -g TITLE="bigsettings"
-	declare -g sub="bigsettings"
+export TITLE="bigsettings"
 
 cd /usr/share/bigbashview/bcc/apps/biglinux-settings-gnome/
-bigbashview -n "$TITLE" -p "$sub" -t qt -s 850x650 -d "$appspath" index.sh.htm -i "$icon_file" 
+bigbashview -n "$TITLE" -p "$TEXTDOMAIN" -t qt -s 850x650 index.sh.htm -i /usr/share/icons/hicolor/scalable/apps/biglinux-settings.svg
 
