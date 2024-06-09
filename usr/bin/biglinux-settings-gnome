@@ -3,12 +3,6 @@
 #Translation
 export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-settings-gnome
-export QT_QPA_PLATFORM=xcb 
-export SDL_VIDEODRIVER=x11 
-export WINIT_UNIX_BACKEND=x11 
-export GDK_BACKEND=x11
-export TITLE="bigsettings"
 
 cd /usr/share/bigbashview/bcc/apps/biglinux-settings-gnome/
-bigbashview -n "$TITLE" -p "$TEXTDOMAIN" -t qt -s 850x650 index.sh.htm -i /usr/share/icons/hicolor/scalable/apps/biglinux-settings.svg
-
+bigbashview -n "bigsettings" -p "bigsettings" -t qt -s 850x650 index.sh.htm -i "/usr/share/icons/hicolor/scalable/apps/biglinux-settings.svg"
